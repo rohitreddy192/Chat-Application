@@ -8,10 +8,10 @@ This repository contains a simple chat application built using Python's socket m
     Python 3.x
 ## Installation
 ### 1. Clone the repository:
-    git clone https://github.com/your-username/chat-app.git
+    git clone https://github.com/rohitreddy192/Chat-Application.git
 
 ### 2. Navigate to the project directory:
-    cd chat-app
+    cd Chat-Application
 
 ### 3. Run the server:
     python server.py
