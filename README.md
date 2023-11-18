@@ -2,15 +2,15 @@
 
 This repository contains a simple chat application built using Python's socket module for network communication and Tkinter for the graphical user interface.
 
-# Setup
+## Setup
 
-Prerequisites
-  Python 3.x
-# Installation
-  1. Clone the repository:
+### Prerequisites
+    ```Python 3.x```
+## Installation
+  1. **Clone the repository:**
     git clone https://github.com/your-username/chat-app.git
 
-  2. Navigate to the project directory:
+  2. **Navigate to the project directory:**
     cd chat-app
 
   3. Run the server:
