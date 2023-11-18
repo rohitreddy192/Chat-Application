@@ -4,7 +4,7 @@ This repository contains a simple chat application built using Python's socket m
 
 # Setup
 
-# Prerequisites
+Prerequisites
   Python 3.x
 # Installation
   1. Clone the repository:
